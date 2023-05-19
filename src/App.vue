@@ -1,10 +1,10 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import AppTitle from './components/AppTitle.vue'
 </script>
 
 <template>
-  
- <HelloWorld msg="La mia prima app con Vite!" />
+
+ <AppTitle msg="La mia prima app con Vite!" />
 
 </template>
 
